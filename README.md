@@ -1,21 +1,14 @@
 # Create applications with the Copilot CLI
 
-_Learn to use GitHub Copilot CLI—a standalone terminal application—for issue management and building a Node.js calculator application._
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-## Welcome
+Hey anuraj!
 
-- **Who is this for**: Developers who want to learn how to use the standalone GitHub Copilot CLI to streamline their development workflow
-- **What you'll learn**: How to install and use GitHub Copilot CLI as a standalone terminal tool for creating issues, generating code, and collaborating interactively from the command line
-- **What you'll build**: A Node.js calculator app using Copilot CLI for project setup, issue management, and collaborative development
-- **Prerequisites**:
-  - Familiarity with basic command line (CLI) operations
-  - Basic knowledge of GitHub repositories
-  - Node.js version 22 or later (for Copilot CLI installation)
-  - A GitHub Copilot subscription (Free, Pro, Pro+, Business, or Enterprise)
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
-- **How long**: This exercise takes less than 60 minutes to complete.
+Remember, it's self-paced so feel free to take a break! ☕️
 
-In this exercise, you will:
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/anuraj/skills-create-applications-with-the-copilot-cli/issues/1)
 
 1. Learn to install the standalone Copilot CLI and use an issue template
 1. Use Copilot CLI to create an issue for a Node.js calculator app from an existing template
