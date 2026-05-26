@@ -21,6 +21,24 @@ In this exercise, you will:
 1. Use Copilot CLI to create an issue for a Node.js calculator app from an existing template
 1. Practice iterative development by working together with Copilot on the command line
 
+## Calculator CLI
+
+This repository includes a basic Node.js calculator CLI in `src/calculator.js`.
+
+Run it with:
+
+```bash
+npm start -- addition 8 2
+node src/calculator.js division 12 3
+```
+
+Supported operations:
+
+- addition
+- subtraction
+- multiplication
+- division
+
 ### What's New in Copilot CLI
 
 GitHub Copilot CLI is a standalone terminal application with exciting features:
