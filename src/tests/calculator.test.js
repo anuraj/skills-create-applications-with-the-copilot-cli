@@ -21,11 +21,11 @@ test('power returns base raised to exponent', () => {
   assert.equal(power(2, 5), 32);
 });
 
-test('square root returns the square root for non-negative input', () => {
+test('squareRoot returns the square root for non-negative input', () => {
   assert.equal(squareRoot(81), 9);
 });
 
-test('square root throws for negative input', () => {
+test('squareRoot throws for negative input', () => {
   assert.throws(
     () => squareRoot(-1),
     /Square root of negative numbers is not allowed\./,
